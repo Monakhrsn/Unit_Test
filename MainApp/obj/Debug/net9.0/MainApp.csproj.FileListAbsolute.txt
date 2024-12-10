@@ -1,0 +1,14 @@
+/Users/RiderProjects/Testing/MainApp/bin/Debug/net9.0/MainApp
+/Users/RiderProjects/Testing/MainApp/bin/Debug/net9.0/MainApp.deps.json
+/Users/RiderProjects/Testing/MainApp/bin/Debug/net9.0/MainApp.runtimeconfig.json
+/Users/RiderProjects/Testing/MainApp/bin/Debug/net9.0/MainApp.dll
+/Users/RiderProjects/Testing/MainApp/bin/Debug/net9.0/MainApp.pdb
+/Users/RiderProjects/Testing/MainApp/obj/Debug/net9.0/MainApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RiderProjects/Testing/MainApp/obj/Debug/net9.0/MainApp.AssemblyInfoInputs.cache
+/Users/RiderProjects/Testing/MainApp/obj/Debug/net9.0/MainApp.AssemblyInfo.cs
+/Users/RiderProjects/Testing/MainApp/obj/Debug/net9.0/MainApp.csproj.CoreCompileInputs.cache
+/Users/RiderProjects/Testing/MainApp/obj/Debug/net9.0/MainApp.dll
+/Users/RiderProjects/Testing/MainApp/obj/Debug/net9.0/refint/MainApp.dll
+/Users/RiderProjects/Testing/MainApp/obj/Debug/net9.0/MainApp.pdb
+/Users/RiderProjects/Testing/MainApp/obj/Debug/net9.0/MainApp.genruntimeconfig.cache
+/Users/RiderProjects/Testing/MainApp/obj/Debug/net9.0/ref/MainApp.dll
