@@ -102,3 +102,4 @@
 /Users/RiderProjects/Testing/MainApp.Tests/obj/Debug/net9.0/MainApp.Tests.pdb
 /Users/RiderProjects/Testing/MainApp.Tests/obj/Debug/net9.0/MainApp.Tests.genruntimeconfig.cache
 /Users/RiderProjects/Testing/MainApp.Tests/obj/Debug/net9.0/ref/MainApp.Tests.dll
+/Users/RiderProjects/Testing/MainApp.Tests/obj/Debug/net9.0/MainApp.Tests.sourcelink.json
